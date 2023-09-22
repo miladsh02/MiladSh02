@@ -1,15 +1,4 @@
 
-Hi there, I'm Mohsen Rajabi 👋
-  
-
-Professional skills
-
-csharp dotnetcore dotnet docker kubernetes
-
-
-
-
-
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
