@@ -18,6 +18,6 @@
 
 <h3 align="center">Status</h3>
 <center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladsh02&show_icons=true&locale=en&layout=compact" alt="miladsh02" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladsh02&show_icons=true&locale=en&layout=compact" alt="miladsh02" /></p>
 </center>
 
